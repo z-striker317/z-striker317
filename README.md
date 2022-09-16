@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @z-striker317
-- 👀 I’m interested in learning different domains such as ethical hacking, cyber forensics, data science, web development, game development and many more.
-- 🌱 I’m currently learning Python, Java Script and Ethical Hacking.
+- 👀 I’m interested in learning Data Dcience, Data Analysis.
+- 🌱 I’m currently learning Python ,C and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can mail me on aakarsh3172002@gmail.com
 
