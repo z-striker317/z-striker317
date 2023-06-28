@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @z-striker317
-- 👀 I’m interested in learning Data Dcience, Data Analysis.
-- 🌱 I’m currently R and Machine Learning.
+- 🌱 I’m currently learnig Deep Learning .
 - 📫 You can mail me on aakarsh3172002@gmail.com
 
 <!---
