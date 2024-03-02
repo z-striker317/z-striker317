@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aakarsh3172002@gmail.com**
 
-- 📄 My Resume Link https://drive.google.com/drive/folders/157P42z5fRVuJvgR-now_KpO26vt6O0oI
+- 📄 My Resume Link https://drive.google.com/drive/folders/157P42z5fRVuJvgR-now_KpO26vt6O0oI?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
